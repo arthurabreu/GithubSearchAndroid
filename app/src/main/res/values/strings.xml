@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Github</string>
+    <string name="empty_placeholder">""</string>
+    <string name="text_search">Search</string>
+
+    //Errors
+    <string name="error_unexpected">An unexpected error occurred!</string>
+    <string name="error_link_not_provided">No link to the site is provided.</string>
+    <string name="error_no_internet">There was a problem with the network, please check your internet connection.</string>
+    <string name="error_no_data_provided">We could not find a result.</string>
+</resources>
